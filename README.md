@@ -42,7 +42,7 @@ Complete DNS infrastructure setup using BIND9 on Unbuntu Server, demonstrating n
 
 # View monitoring dashboard
 ./monitoring/scripts/dashboard.sh
-
+```
 
 ## Project Files 
 - `configs/` - BIND9 configuration files 
