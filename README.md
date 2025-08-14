@@ -7,7 +7,7 @@ Complete DNS infrastructure setup using BIND9 on Unbuntu Server, demonstrating n
 
 ## Skills Demonstrated
 - **DNS Server Configuration**: BIND9 installation and setup
-- ** Zone Mangentment**: Forward and reverse DNS zones 
+- **Zone Mangentment**: Forward and reverse DNS zones 
 - **Custom Monitoring**: Bash scripting for automated health checks
 - **Network Troubleshooting**: Systemtic problem-solving approach
 - **Documentation**: Comprehensive guides and troubleshooting procedures
@@ -41,7 +41,7 @@ Complete DNS infrastructure setup using BIND9 on Unbuntu Server, demonstrating n
 ./monitoring/scripts/dns-monitor.sh
 
 # View monitoring dashboard
-./monitoring/scripts/dashboard.sh
+./monitoring/scripts/dashboard.sh```
 
 
 ## Project Files 
