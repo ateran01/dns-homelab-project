@@ -35,13 +35,13 @@ Complete DNS infrastructure setup using BIND9 on Unbuntu Server, demonstrating n
 - Response time monitoring 
 - Service availability checks
 
-## Usage
+### Usage
 ```bash
 # Run comprehemsive DNS health check
 ./monitoring/scripts/dns-monitor.sh
 
 # View monitoring dashboard
-./monitoring/scripts/dashboard.sh```
+./monitoring/scripts/dashboard.sh
 
 
 ## Project Files 
