@@ -1,0 +1,33 @@
+=========================================
+DNS Health Check Report - 2025-08-14 18:05:20
+=========================================
+1. Testing Forward DNS Resolution...
+  * PASS: web.homelab.local -> 192.168.1.20
+2. Testing Reverse DNS Resolution...
+=========================================
+DNS Health Check Report - 2025-08-14 18:13:09
+=========================================
+1. Testing Forward DNS Resolution...
+  * PASS: web.homelab.local -> 192.168.1.20
+2. Testing Reverse DNS Resolution...
+=========================================
+DNS Health Check Report - 2025-08-14 18:16:35
+=========================================
+1. Testing Forward DNS Resolution...
+  * PASS: web.homelab.local -> 192.168.1.20
+2. Testing Reverse DNS Resolution...
+   * PASS: 192.168.1.20 -> web.homelab.local
+3. Testing External DNS Forwarding...
+    * PASS: External DNS forwarding working
+4. Testing BIND9 Service Status...
+   * PASS: BIND9 service is running
+5. Testing DNS Response Time...
+   * Response Time: 1ms
+========================================
+SUMMARY REPORT
+Forward DNS:	PASS
+Reverse DNS:	PASS
+External Forward: PASS
+BIND9 Service:	PASS
+Response Time:	1ms
+========================================
